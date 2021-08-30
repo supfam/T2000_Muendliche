@@ -87,7 +87,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Basic (and reversed card)",
+            "name": "Basic (and reversed card)-b5034",
             "req": [
                 [
                     0,
@@ -138,20 +138,20 @@
         {
             "__type__": "Note",
             "fields": [
-                "test vom boss&nbsp;",
-                "calvin stinkt"
+                "Nices too, scheint zu funktionieren, ich ändere mal was und commite + pushe.<br><br>Wir sollten in die commits immer das Datum / Uhrzeit packen damit es aktuell ist (und immer den aktuellsten stand von git holen bevor man was ändert)",
+                "filler text"
             ],
-            "guid": "b8iW4du{|Q",
+            "guid": "iHSX}I=)i8",
             "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-                "funktioniert es`?",
-                "ES FUNKTIONIERT"
+                "wer stink am meisten?",
+                "jannik"
             ],
-            "guid": "yp=>7o`L=q",
+            "guid": "G9):#Gh$zN",
             "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
             "tags": []
         }
