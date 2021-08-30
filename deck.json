@@ -58,7 +58,7 @@
     "extendNew": 0,
     "extendRev": 0,
     "media_files": [],
-    "name": "T2000 Mündliche",
+    "name": "T2000 Muendliche",
     "note_models": [
         {
             "__type__": "NoteModel",
@@ -142,6 +142,16 @@
                 "calvin stinkt"
             ],
             "guid": "b8iW4du{|Q",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "funktioniert es`?",
+                "ES FUNKTIONIERT"
+            ],
+            "guid": "yp=>7o`L=q",
             "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
             "tags": []
         }
