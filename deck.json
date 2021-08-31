@@ -504,6 +504,138 @@
             "tags": [
                 "REFI"
             ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie ist ihr Unternehmen gegliedert?",
+                "TODO"
+            ],
+            "guid": "NHxG8I2/#z",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": [
+                "ABWL"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Welche Produkte stellt ihr Unternehmen her? Aufgezählte Produkte müssen evtl. erklärt werden können",
+                "TODO"
+            ],
+            "guid": "NYrnm&Kx<Z",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": [
+                "ABWL"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was versteht man unter einem Marketing-Mix?",
+                "TODO"
+            ],
+            "guid": "hLTfi=e_G{",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": [
+                "Marketing"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Zählen Sie die 4 Selektionsmöglichkeiten auf",
+                "Alter, GEschlecht, Tageszeit, Region"
+            ],
+            "guid": "G=:W!s;mo`",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": [
+                "Marketing"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Erklären Sie verschiedene Rechtsformen und grenzen Sie diese voneinander ab",
+                ""
+            ],
+            "guid": "h_*wq}C+Mb",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": [
+                "ABWL"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist eine Portfolio-Analyse und welche Methoden gibt es?",
+                "BCG (Boston Consulting Group)<br>McKinsey"
+            ],
+            "guid": "rL[PW>I*!i",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": [
+                "ABWL"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "BCG-Portfolio erklären und aufzeichen",
+                "TODO:<br>cash-cow, poor-dog usw"
+            ],
+            "guid": "h}zC>Gu7[Z",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": [
+                "ABWL"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Z",
+                ""
+            ],
+            "guid": "r/8_s5.8G1",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": [
+                "ABWL"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Zeichnen Sie eine Strukturbilanz auf",
+                "TODO"
+            ],
+            "guid": "n,jU3d<N>]",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": [
+                "ABWL"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Eräutern Sie die Funktion eines Tiefpasses. Aufzeichen + Übertragungsfunktion herleiten",
+                "TODO"
+            ],
+            "guid": "x#x|{xUMC:",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": [
+                "Elektronik"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Filterschaltungen",
+                "TODO"
+            ],
+            "guid": "v6F#Fs}MAE",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": [
+                "Etechnik"
+            ]
         }
     ]
 }
