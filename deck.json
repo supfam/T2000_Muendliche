@@ -816,6 +816,78 @@
             "tags": [
                 "Etechnik"
             ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Allgemein das Unternehmen und seine Produkte beschreiben",
+                "TODO"
+            ],
+            "guid": "q7KI5b;M,o",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": [
+                "ABWL"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was unterscheidet Marketing und Vertrieb?",
+                "TODO"
+            ],
+            "guid": "bSp*E$@T5",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": [
+                "ABWL"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mit welcher Frequenz wird Wlan übertragen?",
+                "2.4Ghz und 5Ghz"
+            ],
+            "guid": "JKnx)<({4#",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": [
+                "INFO"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie erreichnet sich die Wellenlänge?",
+                "Für frequenzen"
+            ],
+            "guid": "u}?$Pfk[m2",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": [
+                "INFO"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bilanz: Wo befinden sich die Beteilungsfinanzierungen und wieso dort?",
+                "TODO"
+            ],
+            "guid": "t#!Q&*xj[1",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": [
+                "REFI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bilanz: Wie unterscheiden sich Beteilungsfinanzierungen von Wertpapieren? (AV vs. UV wie differenziert man?)",
+                "TODO"
+            ],
+            "guid": "h7H@_us.@+",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": [
+                "REFI"
+            ]
         }
     ]
 }
