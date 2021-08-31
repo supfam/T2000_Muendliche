@@ -636,6 +636,42 @@
             "tags": [
                 "Etechnik"
             ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie würden Sie dieses Bauteil herstellen? (Drehen, Fräsen, Bohren)&nbsp;",
+                "TODO"
+            ],
+            "guid": "q29qXSXaPt",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": [
+                "Mechanik"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was versteht man utner marko-Ökonomie?",
+                "Todo"
+            ],
+            "guid": "evB-L,7d,=",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": [
+                "ABWL"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie viel kostet ein Widerstand, ein Kondensator, ein Transistor?",
+                "TODO"
+            ],
+            "guid": "CN;(PR0Z:B",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": [
+                "ABWL"
+            ]
         }
     ]
 }
