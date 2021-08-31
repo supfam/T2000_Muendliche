@@ -138,22 +138,280 @@
         {
             "__type__": "Note",
             "fields": [
-                "Nices too, scheint zu funktionieren, ich ändere mal was und commite + pushe.<br><br>Wir sollten in die commits immer das Datum / Uhrzeit packen damit es aktuell ist (und immer den aktuellsten stand von git holen bevor man was ändert)",
-                "filler text"
+                "Wie funktioniert ein induktiver Sensor?",
+                "TODO"
             ],
-            "guid": "iHSX}I=)i8",
+            "guid": "A*pC|mCVeb",
             "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-                "wer stink am meisten?",
-                "jannik"
+                "Wie funktioniert ein optischer Sensor?",
+                "TODO"
             ],
-            "guid": "G9):#Gh$zN",
+            "guid": "m<Y(kXL!4o",
             "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie funktioniert ein Master?",
+                "TODO"
+            ],
+            "guid": "EE4*=@#jo3",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie funktioniert IO-Link?",
+                "TODO"
+            ],
+            "guid": "M:P4X%Us7|",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was bedeutet CE auf einem Sensor? Ist das weltweit gültig?",
+                "TODO +<br>welche Zertifikate gelten woanders ? ASIA + North America&nbsp;"
+            ],
+            "guid": "Kq|`iz.!W*",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist ein Schwingkreis?",
+                "TODO"
+            ],
+            "guid": "xfzss>hn@I",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist ein Operationsverstärker?",
+                "TODO"
+            ],
+            "guid": "r*cVpnByFH",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie hoch ist die Differenzspannung bei einem OPV?",
+                "TODO"
+            ],
+            "guid": "z#?gHAw(Sd",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Welche Arten/Eigenschaften bei OPV gibt es?",
+                "TODO"
+            ],
+            "guid": "OWSMe*:&!x",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie sieht ein Impedanzwandler / invertierender Verstärker / nicht invertierender Verstärker aus?",
+                "TODO"
+            ],
+            "guid": "mgJG54rmaO",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie funktioniert ein Transistor ?",
+                "TODO"
+            ],
+            "guid": "kmY|2R$Wx&",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie ist ein Transistor aufgebaut?",
+                "TODO"
+            ],
+            "guid": "fEj`uI(LB@",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bei wie viel Volt ist die Durchbruchspannung eines Transistors?",
+                "SI-Transistoren ca. 5V,<br>Ge-Transistoren ca. 30V"
+            ],
+            "guid": "f,xt?w!U.b",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Basisspannung bei Trainsistoren?",
+                "0,5-0,7V"
+            ],
+            "guid": "e>=*aRDY9=",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Welche Arten von Transistoren gibt es?",
+                "Bipolar, FET, MOSFET.."
+            ],
+            "guid": "xDx9v%jr_r",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie ist ein Biploar-Transistor aufgebaut?",
+                "TODO"
+            ],
+            "guid": "mS,El|jYT4",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": [
+                "Transistor"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie ist ein FET-Transistor aufgebaut?",
+                "TODO"
+            ],
+            "guid": "c@s0YBPU2&",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": [
+                "Transistor"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie ist ein MOSFET-Transistor aufgebaut?",
+                "TODO"
+            ],
+            "guid": "Oq~KH6rWS<",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": [
+                "Transistor"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie funktioniert ein Netzgerät? Welche Hauptfunktionen erfüllt es?",
+                "TODO"
+            ],
+            "guid": "meFClgl8aj",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist Blindleistun? Wie kann sie kompensiert werden?",
+                "TODO"
+            ],
+            "guid": "u=r5:<)kD-",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie ist eine Bilanz aufgebaut?",
+                "TODO"
+            ],
+            "guid": "Mh&Dj(h&/Q",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": [
+                "REFI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wo steht was in der Bilanz (Bilanz aufzeichnen)?",
+                "TODO"
+            ],
+            "guid": "QX*S_niz_D",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": [
+                "REFI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wo stehen Rückstellungen in der Bilanz? Was sind Rückstellungen?",
+                "TODO"
+            ],
+            "guid": "IAhmej+viD",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": [
+                "REFI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist die Deckungsbeitragsrechnung? Was ist der Unterschied zur Vollkostenrechnung?",
+                "TODO"
+            ],
+            "guid": "mN*i&xImtk",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": [
+                "REFI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie macht man eine Marktanalyse?",
+                "TODO"
+            ],
+            "guid": "Cex[y;+N4A",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": [
+                "Marketing"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sind die 4 P's?",
+                "TODO"
+            ],
+            "guid": "Q?IS)pz{S-",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": [
+                "ABWL"
+            ]
         }
     ]
 }
