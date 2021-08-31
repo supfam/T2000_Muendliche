@@ -672,6 +672,54 @@
             "tags": [
                 "ABWL"
             ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was versteht man unter Bechmark?",
+                "TODO"
+            ],
+            "guid": "cA-8MHl%O:",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": [
+                "ABWL"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie kann man Spannung bei Gleichstrom stabilisieren?",
+                "TODO"
+            ],
+            "guid": "FI8PF>JeX@",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": [
+                "Etechnik"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie bekommt man aus einem Wechselstrom ein Gleichstrom?",
+                "TODO"
+            ],
+            "guid": "E4_R?wgzm0",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": [
+                "Etechnik"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mit welcher Schaltung kann man Spannung erhöhen und mit welcher herabsetzen?",
+                "TODO"
+            ],
+            "guid": "i*r_4{=z(S",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": [
+                "Etechnik"
+            ]
         }
     ]
 }
