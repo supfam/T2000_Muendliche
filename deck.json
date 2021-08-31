@@ -720,6 +720,102 @@
             "tags": [
                 "Etechnik"
             ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Welche Frequenz hat RFID?",
+                "TODO"
+            ],
+            "guid": "i;iy0,rG&h",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": [
+                "Etechnik"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Unterschied zwischen induktiven und kapazitiven Sensoren?",
+                "TODO"
+            ],
+            "guid": "gK!WSw2lb<",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": [
+                "Etechnik"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Datenbanken: Zeichnen sie ein ERM-Diagram für eine Bibliothek",
+                "TODO"
+            ],
+            "guid": "zLu3tWP.Yl",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": [
+                "INFO"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Datenbanken: Wie könnte man eine Bedingung implementieren, dass ein Student nur 3 Bücher ausleichen darf?",
+                "TODO"
+            ],
+            "guid": "J=vP|]`+VO",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": [
+                "INFO"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist der Unterschied zwischen Datenbanken und Excel-Tabellen?",
+                "TODO"
+            ],
+            "guid": "Co@dlXt#5^",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": [
+                "INFO"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Angenommen die Lufthansa hat Liquiditätsengpässe. Was kann Sie kurzfristig tun?",
+                "TODO"
+            ],
+            "guid": "f7#d{Y]em&",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": [
+                "REFI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie nennt man es wenn man Aktien ausgibt?",
+                "TODO"
+            ],
+            "guid": "E4{MLyZA$M",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": [
+                "REFI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Welche Kräfte wirken zwischen Ladungen?",
+                "TODO"
+            ],
+            "guid": "K`S_[iDr(x",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": [
+                "Etechnik"
+            ]
         }
     ]
 }
