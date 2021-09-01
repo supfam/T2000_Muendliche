@@ -57,7 +57,15 @@
     "dyn": 0,
     "extendNew": 0,
     "extendRev": 0,
-    "media_files": [],
+    "media_files": [
+        "170px-Schwingkreis.svg.png",
+        "Ansoff_Matrix.png",
+        "BCG-Matrix.png",
+        "deckungsbeitragsrechnung.png",
+        "opv1.gif",
+        "paste-1591ec82f72254b02bf1f02d9174117c5ef9a3ca.jpg",
+        "paste-ee75a20c5656669a81a9348c803d18cf2c57333c.jpg"
+    ],
     "name": "T2000 Muendliche",
     "note_models": [
         {
@@ -138,6 +146,16 @@
         {
             "__type__": "Note",
             "fields": [
+                "wer stink am meisten?",
+                "jannik"
+            ],
+            "guid": "G9):#Gh$zN",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Wie funktioniert ein induktiver Sensor?",
                 "TODO"
             ],
@@ -191,7 +209,7 @@
             "__type__": "Note",
             "fields": [
                 "Was ist ein Schwingkreis?",
-                "TODO"
+                "Resonanzfähige Schaltung aus einer Spule (L) und einem Kondensator (C).<br><br>Wenn angeregt schwingt er eigenständig weiter (klingen in Realität ab und müssen periodisch angeregt werden)<br><br><img src=\"170px-Schwingkreis.svg.png\">"
             ],
             "guid": "xfzss>hn@I",
             "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
@@ -203,7 +221,7 @@
             "__type__": "Note",
             "fields": [
                 "Was ist ein Operationsverstärker?",
-                "TODO"
+                "Schaltungselement zur Verstärkung von Spannungen.<br><br>Ein invertierter Eingang, ein normaler. Differenz zwischen Eingängen wird verstärkt als Ausgangsspannung abgegeben.&nbsp;<br>Idealer OPV hat unendlich hohe Verstärkung.<br><br><img src=\"opv1.gif\"><br>"
             ],
             "guid": "r*cVpnByFH",
             "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
@@ -401,7 +419,7 @@
             "__type__": "Note",
             "fields": [
                 "Was ist die Deckungsbeitragsrechnung? Was ist der Unterschied zur Vollkostenrechnung?",
-                "TODO"
+                "Die Deckungsbeitragsrechnung dient hauptsächlich zur Erfolgsermittlung.<br><br><img src=\"deckungsbeitragsrechnung.png\">"
             ],
             "guid": "mN*i&xImtk",
             "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
@@ -425,7 +443,7 @@
             "__type__": "Note",
             "fields": [
                 "Was sind die 4 P's?",
-                "TODO"
+                "Product, Price, Place, Promotion<br>bzw. Produkt-, Preis-, Vetriebs- und Kommunikationspolitik"
             ],
             "guid": "Q?IS)pz{S-",
             "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
@@ -437,7 +455,7 @@
             "__type__": "Note",
             "fields": [
                 "Unterschied npn und pnp Transistor",
-                "TODO"
+                "NPN schaltet C auf E bei Basisstrom/Spannung durch<br><br>PNP schaltet von E auf C bei keinem Strom an der Basis<br><img src=\"paste-1591ec82f72254b02bf1f02d9174117c5ef9a3ca.jpg\"><br><br><br>"
             ],
             "guid": ")T^t(OV0<",
             "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
@@ -449,7 +467,7 @@
             "__type__": "Note",
             "fields": [
                 "Ansoff-Matrix aufzeichnen und erklären",
-                "TODO"
+                "<img src=\"Ansoff_Matrix.png\">"
             ],
             "guid": "57KUOLCkC",
             "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
@@ -461,7 +479,7 @@
             "__type__": "Note",
             "fields": [
                 "Unterschied variable und fixe Kosten ?",
-                "TODO"
+                "Variable Kosten verändern sich mit Produktionsmenge.<br><br>Fixkosten stehen nicht im direkten Zusammenhang mit der Produktionsmenge."
             ],
             "guid": "QhgGCpfA%v",
             "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
@@ -569,7 +587,7 @@
             "__type__": "Note",
             "fields": [
                 "Was ist eine Portfolio-Analyse und welche Methoden gibt es?",
-                "BCG (Boston Consulting Group)<br>McKinsey"
+                "BCG-Matrix (Boston Consulting Group)<br>McKinsey"
             ],
             "guid": "rL[PW>I*!i",
             "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
@@ -581,7 +599,7 @@
             "__type__": "Note",
             "fields": [
                 "BCG-Portfolio erklären und aufzeichen",
-                "TODO:<br>cash-cow, poor-dog usw"
+                "<img src=\"BCG-Matrix.png\"><br>"
             ],
             "guid": "h}zC>Gu7[Z",
             "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
@@ -737,7 +755,7 @@
             "__type__": "Note",
             "fields": [
                 "Unterschied zwischen induktiven und kapazitiven Sensoren?",
-                "TODO"
+                "Induktive Sensoren können nur auf Metalle reagieren. Induktiver Sensor erzeugt Magnetfeld, wird durch Metallobjekte gedämpft, Spule erfährt Impedanzänderung, Schwingungsamplitude sinkt, Sensor schaltet.<br><img src=\"paste-ee75a20c5656669a81a9348c803d18cf2c57333c.jpg\"><br><br>Kapazitiver Sensor können auch nichtleitende Materialien erfassen. Ein annäherndes Medium verursacht eine Kapazitätsveränderung im Sensor und löst Schaltvorgang aus."
             ],
             "guid": "gK!WSw2lb<",
             "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
@@ -773,7 +791,7 @@
             "__type__": "Note",
             "fields": [
                 "Was ist der Unterschied zwischen Datenbanken und Excel-Tabellen?",
-                "TODO"
+                "- Excel lädt immer den kompletten Datenbestand in den Hauptspeicher. Eine Datenbank lädt immer nur die entsprechenden Daten aus einer Anfrage, bzw. schreibt nur in die entsprechende Tabelle.<br>- Datenbanken bieten Lese-und Schreibrechte, Skalierbarkeit, größere Datenmengen, Datensicherungsmöglichkeiten etc.."
             ],
             "guid": "Co@dlXt#5^",
             "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
