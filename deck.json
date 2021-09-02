@@ -61,10 +61,21 @@
         "170px-Schwingkreis.svg.png",
         "Ansoff_Matrix.png",
         "BCG-Matrix.png",
+        "Bildschirmfoto 2021-09-01 um 21.55.07.png",
+        "Bildschirmfoto 2021-09-02 um 12.44.31.png",
+        "Bildschirmfoto 2021-09-02 um 12.47.50.png",
+        "Bildschirmfoto 2021-09-02 um 12.48.25.png",
+        "Bildschirmfoto 2021-09-02 um 12.53.29.png",
+        "Bildschirmfoto 2021-09-02 um 12.56.19.png",
+        "Bildschirmfoto 2021-09-02 um 13.02.33.png",
+        "Bildschirmfoto 2021-09-02 um 13.04.05.png",
+        "bilanz_1.gif",
         "deckungsbeitragsrechnung.png",
         "opv1.gif",
         "paste-1591ec82f72254b02bf1f02d9174117c5ef9a3ca.jpg",
-        "paste-ee75a20c5656669a81a9348c803d18cf2c57333c.jpg"
+        "paste-9ee55a065c9a6ccf5c3b2e270cbad5c1febeae67.jpg",
+        "paste-ee75a20c5656669a81a9348c803d18cf2c57333c.jpg",
+        "strukturbilanz allgemein.bmp"
     ],
     "name": "T2000 Muendliche",
     "note_models": [
@@ -146,18 +157,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "wer stink am meisten?",
-                "jannik"
-            ],
-            "guid": "G9):#Gh$zN",
-            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
                 "Wie funktioniert ein induktiver Sensor?",
-                "TODO"
+                "<img src=\"Bildschirmfoto 2021-09-01 um 21.55.07.png\"><br><div>\n<div>\n<div>\n<div>Das Funktionsprinzip beruht auf der Wechselwirkung zwischen dem elektromagne-\ntischen Feld des Sensors und der des zu erkennenden metallischen Objektes (Target).\nIm sog. Frontend des Sensors befindet sich eine Spule, welche bei Bestromung ein Magnetfeld erzeugt [siehe Sensorfeld Abbildung <span style=\"color: rgb(0, 0, 51);\">19</span>]. Der Messbereich des Sensors wird\nsomit über das Magnetfeld definiert. Wird nun ein sog. Target (das zu erkennende\nObjekt) in das Magnetfeld eingebracht, werden Wirbelstörme in dieses induziert. Diese\nWirbelströme wirken dem Magnetfeld des Sensors gemäß der Lenzschen Regel entge-\ngen. Die dadurch entstehende Abschwächung des Magnetfeldes ist messbar und wird\nvon der Auswerteelektronik des Sensors in eine elektrische Größe umgewandelt und\nüber den Ausgangstreiber einer Steuerung zur Verfügung gestellt.&nbsp;</div>\n</div>\n</div></div>"
             ],
             "guid": "A*pC|mCVeb",
             "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
@@ -197,7 +198,7 @@
             "__type__": "Note",
             "fields": [
                 "Was bedeutet CE auf einem Sensor? Ist das weltweit gültig?",
-                "TODO +<br>welche Zertifikate gelten woanders ? ASIA + North America&nbsp;"
+                "<span style=\"color: rgb(64, 64, 64);\">Viele Produkte benötigen eine CE-Kennzeichnung, bevor sie in der&nbsp;</span><a href=\"https://europa.eu/youreurope/business/product-requirements/labels-markings/ce-marking/index_de.htm#abbr-ID0E1\">EU</a><span style=\"color: rgb(64, 64, 64);\">&nbsp;verkauft werden dürfen. Das CE-Zeichen ist ein Hinweis darauf, dass ein Produkt vom Hersteller geprüft wurde und dass es alle EU-weiten Anforderungen an Sicherheit, Gesundheitsschutz und Umweltschutz erfüllt. Es ist Pflicht für alle weltweit hergestellten Produkte, die&nbsp;</span><strong>in der EU vermarktet</strong><span style=\"color: rgb(64, 64, 64);\">&nbsp;werden.<br></span><br>Amercia:<br><span style=\"color: rgb(78, 81, 71);\">Das UL-Prüfzeichen ist im Gegensatz zur CE-Kennzeichnung nicht gesetzlich vorgeschrieben. Dennoch ist es weltweit anerkannt und inzwischen ein fester Bestandteil bei Produkten für den amerikanischen und kanadischen Markt und somit ein Wettbewerbsvorteil. Meist kommt das UL Zeichen bei elektrischen / elektronischen Produkten vor.<br></span><br><br>"
             ],
             "guid": "Kq|`iz.!W*",
             "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
@@ -267,7 +268,7 @@
             "__type__": "Note",
             "fields": [
                 "Wie funktioniert ein Transistor ?",
-                "TODO"
+                "<img src=\"Bildschirmfoto 2021-09-02 um 12.48.25.png\"><br><img src=\"Bildschirmfoto 2021-09-02 um 12.47.50.png\">"
             ],
             "guid": "kmY|2R$Wx&",
             "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
@@ -370,8 +371,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Was ist Blindleistun? Wie kann sie kompensiert werden?",
-                "TODO"
+                "Was ist Blindleistung? Wie kann sie kompensiert werden?",
+                "<img src=\"Bildschirmfoto 2021-09-02 um 13.02.33.png\"><br><img src=\"Bildschirmfoto 2021-09-02 um 13.04.05.png\"><br>"
             ],
             "guid": "u=r5:<)kD-",
             "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
@@ -395,7 +396,7 @@
             "__type__": "Note",
             "fields": [
                 "Wo steht was in der Bilanz (Bilanz aufzeichnen)?",
-                "TODO"
+                "Links aktiva - Rechts passiva&nbsp;"
             ],
             "guid": "QX*S_niz_D",
             "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
@@ -407,7 +408,7 @@
             "__type__": "Note",
             "fields": [
                 "Wo stehen Rückstellungen in der Bilanz? Was sind Rückstellungen?",
-                "TODO"
+                "Passiva - <br><ul><li>Gewinnrückstellungen sind Eigenkapital&nbsp;</li><li>Rückstellungen &lt; 1 Jahr sind Fremdkapital</li></ul><img src=\"bilanz_1.gif\"><br>"
             ],
             "guid": "IAhmej+viD",
             "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
@@ -431,7 +432,7 @@
             "__type__": "Note",
             "fields": [
                 "Wie macht man eine Marktanalyse?",
-                "TODO"
+                "<b>Marktanalyse</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;(englisch market analysis, market research)&nbsp;</span><b>ist</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;in der Marktforschung die systematische Analyse vorhandener Marktdaten eines bestimmten Marktes zu einem bestimmten Zeitpunkt.<br></span><br><u>Vorgehen:<br></u>1. Problem und Ziel definieren (Markt beschreiben, Marktpotenziale, Rahmenbedigungen, Absatz &amp; Umsatz)<br>2. Markt eingerenzen ( Produkt, Kategorie, Branche, Zielgruppen)<br>3. Methodik und Vorgehen ( Wie werden die Daten ermittelt und analysiert (z.b. Dokumentenanalyse, Fragebogen, Interviews..)<br>4. Durchführung<br>5. Daten auswerten<br><br><br>"
             ],
             "guid": "Cex[y;+N4A",
             "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
@@ -491,7 +492,7 @@
             "__type__": "Note",
             "fields": [
                 "Was versteht man unter dem Deckungsbeitrag?",
-                "TODO"
+                "<span style=\"color: rgb(89, 95, 104);\">Der Deckungsbeitrag ist die Differenz zwischen&nbsp;</span><strong>Umsatz</strong><span style=\"color: rgb(89, 95, 104);\">&nbsp;und den&nbsp;</span><strong>variablen Kosten</strong><span style=\"color: rgb(89, 95, 104);\">, also der Betrag, welcher zur Deckung der&nbsp;</span><strong>Fixkosten</strong><span style=\"color: rgb(89, 95, 104);\">&nbsp;verfügbar ist. Er wird unter anderem für die Erfolgsermittlung und die Preiskalkulation benötigt. Er hilft dem Unternehmen unter anderem bei der Berechnung oder Anpassung der Preise für Ihr Produkte oder Dienstleistungen.</span>"
             ],
             "guid": "v6^XZs|WlT",
             "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
@@ -515,7 +516,7 @@
             "__type__": "Note",
             "fields": [
                 "Welche Kosten dürfen bei der langfristigen Preisfindung nicht vernachlässigt werden?",
-                "TOFO"
+                "Fix und variable Kosten und indirekte kosten wie Entwicklung, Vertrieb, sowie Service, Kulanz , Reklamationen usw"
             ],
             "guid": "l`md%rlXh.",
             "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
@@ -527,7 +528,7 @@
             "__type__": "Note",
             "fields": [
                 "Wie ist ihr Unternehmen gegliedert?",
-                "TODO"
+                "GmbH mit 3 Geschäftsführer unterteilt in Finance, Marketing &amp; Sales und Technology&nbsp;"
             ],
             "guid": "NHxG8I2/#z",
             "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
@@ -563,7 +564,7 @@
             "__type__": "Note",
             "fields": [
                 "Zählen Sie die 4 Selektionsmöglichkeiten auf",
-                "Alter, GEschlecht, Tageszeit, Region"
+                "Alter, Geschlecht, Tageszeit, Region"
             ],
             "guid": "G=:W!s;mo`",
             "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
@@ -623,7 +624,7 @@
             "__type__": "Note",
             "fields": [
                 "Zeichnen Sie eine Strukturbilanz auf",
-                "TODO"
+                "Stukturbilanz = verkürzte Handelsbilanz<br><br><img src=\"strukturbilanz allgemein.bmp\">"
             ],
             "guid": "n,jU3d<N>]",
             "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
@@ -671,7 +672,7 @@
             "__type__": "Note",
             "fields": [
                 "Was versteht man utner marko-Ökonomie?",
-                "Todo"
+                "<span style=\"color: rgb(32, 33, 34);\">Die Makroökonomie untersucht Themen wie&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Bruttoinlandsprodukt\">Bruttoinlandsprodukt</a><span style=\"color: rgb(32, 33, 34);\">,&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Arbeitslosenstatistik\">Arbeitslosenquote</a><span style=\"color: rgb(32, 33, 34);\">,&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Nationaleinkommen\">Nationaleinkommen</a><span style=\"color: rgb(32, 33, 34);\">,&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Preisindex\">Preisindizes</a><span style=\"color: rgb(32, 33, 34);\">,&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Produktion\">Produktion</a><span style=\"color: rgb(32, 33, 34);\">,&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Konsum\">Konsum</a><span style=\"color: rgb(32, 33, 34);\">,&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Arbeitslosigkeit\">Arbeitslosigkeit</a><span style=\"color: rgb(32, 33, 34);\">,&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Inflation\">Inflation</a><span style=\"color: rgb(32, 33, 34);\">,&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Sparen\">Sparen</a><span style=\"color: rgb(32, 33, 34);\">,&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Investition\">Investitionen</a><span style=\"color: rgb(32, 33, 34);\">,&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Energiemarkt\">Energie</a><span style=\"color: rgb(32, 33, 34);\">,&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Au%C3%9Fenhandel\">Außenhandel</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;und die&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Weltwirtschaft\">Weltwirtschaft</a><span style=\"color: rgb(32, 33, 34);\">.<br><br></span><img src=\"Bildschirmfoto 2021-09-02 um 12.56.19.png\"><br><br>"
             ],
             "guid": "evB-L,7d,=",
             "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
@@ -683,7 +684,7 @@
             "__type__": "Note",
             "fields": [
                 "Wie viel kostet ein Widerstand, ein Kondensator, ein Transistor?",
-                "TODO"
+                "Je nach Bauform -&gt; SMD Widerstände unter 1ct<br>Kondenstoren 1-2ct (nach nach Bauform/kapazität)"
             ],
             "guid": "CN;(PR0Z:B",
             "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
@@ -695,7 +696,7 @@
             "__type__": "Note",
             "fields": [
                 "Was versteht man unter Bechmark?",
-                "TODO"
+                "<span style=\"color: rgb(32, 33, 34);\">Eine&nbsp;</span><b>Benchmark</b><span style=\"color: rgb(32, 33, 34);\">&nbsp;(von&nbsp;</span><i><span style=\"font-style: normal;\"><a href=\"https://de.wikipedia.org/wiki/Englische_Sprache\">englisch</a></span>&nbsp;benchmark</i><span style=\"color: rgb(32, 33, 34);\">&nbsp;oder&nbsp;</span><i>bench mark</i><span style=\"color: rgb(32, 33, 34);\">) ist ein Vergleichsmaßstab.&nbsp;</span><b>Benchmarking</b><span style=\"color: rgb(32, 33, 34);\">&nbsp;(sinngemäß „Maßstäbe vergleichen“) bezeichnet die vergleichende Analyse von Ergebnissen oder Prozessen mit einem festgelegten&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Bezugswert\">Bezugswert</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;oder Bezugsprozess.</span>"
             ],
             "guid": "cA-8MHl%O:",
             "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
@@ -707,7 +708,7 @@
             "__type__": "Note",
             "fields": [
                 "Wie kann man Spannung bei Gleichstrom stabilisieren?",
-                "TODO"
+                "Mit einem Spannungsregler.<br><br>Einfachste Möglichkeit mit Z-Diode:<br><img src=\"paste-9ee55a065c9a6ccf5c3b2e270cbad5c1febeae67.jpg\"><br><br>Komplexer - mit Glättungskondensatoren und Regelelement:<br><img src=\"Bildschirmfoto 2021-09-02 um 12.44.31.png\"><br><br>"
             ],
             "guid": "FI8PF>JeX@",
             "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
@@ -815,7 +816,7 @@
             "__type__": "Note",
             "fields": [
                 "Wie nennt man es wenn man Aktien ausgibt?",
-                "TODO"
+                "<span style=\"color: rgb(32, 33, 36);\">Die Ausgabe von&nbsp;</span><b>Aktien</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;bezeichnet&nbsp;</span><b>man</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;als Emission. Eine weitere Emission&nbsp;</span><b>ist</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;auch im Rahmen einer Kapitalerhöhung möglich. Der Anteil einer&nbsp;</span><b>Aktie</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;am Unternehmen kann in Form von Nennwert- oder Stückaktien verbrieft sein.</span>"
             ],
             "guid": "E4{MLyZA$M",
             "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
@@ -827,7 +828,7 @@
             "__type__": "Note",
             "fields": [
                 "Welche Kräfte wirken zwischen Ladungen?",
-                "TODO"
+                "<img src=\"Bildschirmfoto 2021-09-02 um 12.53.29.png\">"
             ],
             "guid": "K`S_[iDr(x",
             "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
