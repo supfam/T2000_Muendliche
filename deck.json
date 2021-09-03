@@ -907,6 +907,16 @@
             "tags": [
                 "REFI"
             ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "frage test&nbsp;",
+                "antwort test"
+            ],
+            "guid": "pkJP-C2/NS",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": []
         }
     ]
 }
