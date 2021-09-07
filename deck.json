@@ -917,6 +917,16 @@
             "guid": "pkJP-C2/NS",
             "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Test von Marc&nbsp;",
+                "Marc = cool"
+            ],
+            "guid": "M$/iKdo+Q;",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": []
         }
     ]
 }
