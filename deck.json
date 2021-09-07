@@ -69,16 +69,91 @@
         "Bildschirmfoto 2021-09-02 um 12.56.19.png",
         "Bildschirmfoto 2021-09-02 um 13.02.33.png",
         "Bildschirmfoto 2021-09-02 um 13.04.05.png",
+        "Telephony_multiplexer_system.gif",
         "bilanz_1.gif",
         "deckungsbeitragsrechnung.png",
         "opv1.gif",
         "paste-1591ec82f72254b02bf1f02d9174117c5ef9a3ca.jpg",
+        "paste-19216f586e51558d7679920afa0b5634f0991948.jpg",
+        "paste-2361bb9846ddb4ff28cae28766a2903c82042a95.jpg",
+        "paste-2e7132f5f50c67f0c09380a4efd76369d02685d7.jpg",
+        "paste-3505d29ee8cc3e56b4dc4b2728f24599efb6429a.jpg",
+        "paste-49817455fce1be84b88504ac535ecb620be1f177.jpg",
+        "paste-625748fc45e481bb3862f452587aa48216897f39.jpg",
+        "paste-65e41a7af0f8ef019ef774c48dae26b2c16b273f.jpg",
+        "paste-67707928e56d352892ff1a3d0edb7a2bac97a5ce.jpg",
+        "paste-79324660e700325b9bb85e5036eb13e46b6a8384.jpg",
+        "paste-7ae38233bc5f4c7fe4088f4d63b9e925d1602922.jpg",
+        "paste-8fad2ead719fc62f7af2836d2d782cb74cf60e87.jpg",
         "paste-9ee55a065c9a6ccf5c3b2e270cbad5c1febeae67.jpg",
+        "paste-ad1c5f18ea38442a7ac066ba0db9e456f0d61156.jpg",
+        "paste-b0a6ee03eb5bd26ce168bd8f4651dca92528a66e.jpg",
+        "paste-b9c7b4b2d974a99b8032c2fbe4cea3ffcf62486b.jpg",
+        "paste-be7ee3861316798ee45fb331528cd2987d740703.jpg",
+        "paste-c0efd4043b4d2c1e0700be5b9270560ed5849953.jpg",
+        "paste-cac539dff589bde6dc63588b33bebdcaa849b67b.jpg",
+        "paste-e1e429d5e7ae5593b96f0319f4ceb01eb7045137.jpg",
         "paste-ee75a20c5656669a81a9348c803d18cf2c57333c.jpg",
+        "paste-eed2c6a876dcfd5889bb66f87e77b273e2081710.jpg",
         "strukturbilanz allgemein.bmp"
     ],
     "name": "T2000 Muendliche",
     "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic-17182",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
@@ -154,6 +229,256 @@
         }
     ],
     "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie heißen Variablen mit 2 möglichen Zuständen",
+                "Boolsche Variablen"
+            ],
+            "guid": "J&gF;lU&Xp",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Merkmal digitaler Wert und Vorteile",
+                "-diskrete Werte (nur bestimmte Werte)<br>-Daten können verlustfrei gespeichert, kopiert und übertragen werden"
+            ],
+            "guid": "F0DC{hj+)[",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Merkmal analoger Werte",
+                "-kontinuierliche Werte (unendlich viele)"
+            ],
+            "guid": "d~|DfnSwN=",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie werden Daten digitalisiert?",
+                "1. Eingang ist ein Analoges Signal (Füllstand durch Füllstandssensor)<br>2. Wert- und Zeitquantitisierung des Spannungsverlaufs in Stufen<br>3. Zuordnung der Kodierung<br><br><img src=\"paste-2361bb9846ddb4ff28cae28766a2903c82042a95.jpg\">"
+            ],
+            "guid": "xd!Kv4NGot",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Nennen Sie drei Arten elektrisch betätigbarer Schalterarten",
+                "Elektromechanisch: Relais<br>Elektronenstrahlen: Elektronenröhre<br>Halbleitertechnik: Transistor/Mosfet"
+            ],
+            "guid": "x>|$+xcf^]",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Zeichnen Sie ein npn-Transistor",
+                "<img src=\"paste-cac539dff589bde6dc63588b33bebdcaa849b67b.jpg\">"
+            ],
+            "guid": "F5|<V=(06*",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Zeichne einen n-Kanal Mosfet",
+                "<img src=\"paste-ad1c5f18ea38442a7ac066ba0db9e456f0d61156.jpg\">"
+            ],
+            "guid": "bTi^SjPto^",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wann leitet ein npn-Transistor?",
+                "<img src=\"paste-2e7132f5f50c67f0c09380a4efd76369d02685d7.jpg\">"
+            ],
+            "guid": "AXM?J0)h~g",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wann leitet ein n-Kanal Mosfet?",
+                "<img src=\"paste-79324660e700325b9bb85e5036eb13e46b6a8384.jpg\">"
+            ],
+            "guid": "b5HX^&KicI",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mit welcher technischen Größe werden Transistoren/Mosfets angesteuert",
+                "Transistor = Strom<br>Mosfet = Spannung"
+            ],
+            "guid": "Q&s&z=k`W^",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie funktioniert ein Mosfet?",
+                "<img src=\"paste-67707928e56d352892ff1a3d0edb7a2bac97a5ce.jpg\">"
+            ],
+            "guid": "ewRw%%?NRI",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was beschreibt ein Min-Term?",
+                "<img src=\"paste-625748fc45e481bb3862f452587aa48216897f39.jpg\">"
+            ],
+            "guid": "Ob8;pOUxSd",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was beschreibt ein Max-Term?",
+                "<img src=\"paste-eed2c6a876dcfd5889bb66f87e77b273e2081710.jpg\">"
+            ],
+            "guid": "taa{A5mS}J",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Lösung des nachfolgenden KV Diagramms<br><img src=\"paste-7ae38233bc5f4c7fe4088f4d63b9e925d1602922.jpg\">",
+                "<img src=\"paste-3505d29ee8cc3e56b4dc4b2728f24599efb6429a.jpg\">"
+            ],
+            "guid": "ruYP[#%Gqg",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wann sind d`s im KV Diagramm eintragbar und als 1 verwendbar?",
+                "Wenn diese im echten Beispiel nicht vorkommen können (dont care)"
+            ],
+            "guid": "fz~*KDOo@#",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Warum wird in der Digitaltechnik häufig ein Takt verwendet?",
+                "<img src=\"paste-e1e429d5e7ae5593b96f0319f4ceb01eb7045137.jpg\">"
+            ],
+            "guid": "g_mK.Nx<PY",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist der Unterschied zwischen einem <font color=\"#0000ff\">Schaltnetz </font>und einem <font color=\"#0000ff\">Schaltwerk</font>",
+                "<img src=\"paste-49817455fce1be84b88504ac535ecb620be1f177.jpg\">"
+            ],
+            "guid": "Mm0D=J[47d",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Zeichnen Sie einen Moore-Automat / Mealy Automat und nennen Sie den Unterschied",
+                "<img src=\"paste-19216f586e51558d7679920afa0b5634f0991948.jpg\">"
+            ],
+            "guid": "w+*]-EHEuh",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie sieht das einfachste Speichermedium ein NOR-RS-Flipflop aus",
+                "<img src=\"paste-c0efd4043b4d2c1e0700be5b9270560ed5849953.jpg\"><img src=\"paste-65e41a7af0f8ef019ef774c48dae26b2c16b273f.jpg\">"
+            ],
+            "guid": "t;{/Ld5T#U",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie wird ein Taktflankengesteuertes D-Flipflop realisiert?",
+                "<img src=\"paste-8fad2ead719fc62f7af2836d2d782cb74cf60e87.jpg\">"
+            ],
+            "guid": "O}4KAo(@&j",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist ein Multiplexer?",
+                "<span style=\"color: rgb(32, 33, 34);\">Selektionsschaltung in der analogen und digitalen&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Elektronik\">Elektronik</a><span style=\"color: rgb(32, 33, 34);\">, mit der aus einer Anzahl von Eingangssignalen eines ausgewählt und an den Ausgang durchgeschaltet werden kann.<br><br></span><img src=\"Telephony_multiplexer_system.gif\"><span style=\"color: rgb(32, 33, 34);\"><br></span>"
+            ],
+            "guid": "z-tCr3#[/g",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Durch welche Rechenoperation lassen sich alle Grundrechenoperationen realisieren?",
+                "<img src=\"paste-b9c7b4b2d974a99b8032c2fbe4cea3ffcf62486b.jpg\">"
+            ],
+            "guid": "E06Wkn9rMq",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "durch was kennzeichnen sich asynchronzähler?",
+                "besitzen keinen speraten Takt C sondern zählen direkt die Impulse am Eingang&nbsp;"
+            ],
+            "guid": "O:.4Y:5rT$",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "wodurch kennzeichnet sich ein Synchronzähler",
+                "<img src=\"paste-be7ee3861316798ee45fb331528cd2987d740703.jpg\">"
+            ],
+            "guid": "IF8ULhxV*@",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Unterscheidungskriterien Speichersysteme",
+                "<img src=\"paste-b0a6ee03eb5bd26ce168bd8f4651dca92528a66e.jpg\">"
+            ],
+            "guid": "pl9J:|/!wN",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
         {
             "__type__": "Note",
             "fields": [
