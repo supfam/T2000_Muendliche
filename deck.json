@@ -1,6 +1,20 @@
 {
     "__type__": "Deck",
-    "children": [],
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "ce26d45c-13ab-11ec-bc61-1e2940308285",
+            "deck_config_uuid": "be1d1a58-09ba-11ec-aaf2-1e2940308285",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Einkauf",
+            "notes": []
+        }
+    ],
     "crowdanki_uuid": "be1cfcee-09ba-11ec-aaf2-1e2940308285",
     "deck_config_uuid": "be1d1a58-09ba-11ec-aaf2-1e2940308285",
     "deck_configurations": [
@@ -81,6 +95,10 @@
         "Bildschirmfoto 2021-09-11 um 12.02.22.png",
         "Bildschirmfoto 2021-09-11 um 12.02.36.png",
         "Bildschirmfoto 2021-09-11 um 12.03.25.png",
+        "Bildschirmfoto 2021-09-12 um 10.49.10.png",
+        "Bildschirmfoto 2021-09-12 um 10.58.17.png",
+        "Bildschirmfoto 2021-09-12 um 11.04.29.png",
+        "Bildschirmfoto 2021-09-12 um 11.05.21.png",
         "Telephony_multiplexer_system.gif",
         "bilanz_1.gif",
         "deckungsbeitragsrechnung.png",
@@ -1332,6 +1350,46 @@
                 "<img src=\"paste-25a31bc01dd256977bd24de427655adea866caa8.jpg\">"
             ],
             "guid": "x3DEA,%6<{",
+            "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Verschwendungen nach Lean?£",
+                "<img src=\"Bildschirmfoto 2021-09-12 um 10.49.10.png\">"
+            ],
+            "guid": "h7NkGM]~``",
+            "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Kennzahlen für Lead Production?",
+                "<img src=\"Bildschirmfoto 2021-09-12 um 10.58.17.png\">"
+            ],
+            "guid": "EPJv$<bPs8",
+            "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Organisationstypen der Fertigung",
+                "<img src=\"Bildschirmfoto 2021-09-12 um 11.04.29.png\">"
+            ],
+            "guid": "2vh@J8>_*",
+            "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Grundbegriffe Produktion und Logistik",
+                "<img src=\"Bildschirmfoto 2021-09-12 um 11.05.21.png\">"
+            ],
+            "guid": "E,KA17iPkv",
             "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
             "tags": []
         }
