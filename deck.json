@@ -13,6 +13,139 @@
             "media_files": [],
             "name": "Einkauf",
             "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "9b202400-13ac-11ec-aff7-6245b4ebd083",
+            "deck_config_uuid": "9b202401-13ac-11ec-a3be-6245b4ebd083",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "220px-Ertragsgesetzliche_Produktionsfunktion.svg.png",
+                "220px-Indifference-curves-de.svg.png",
+                "240px-Indifference-curves-de0.svg.png",
+                "Kostenfunktion.png",
+                "paste-669d70169dd5db76bda245b84cc3afdbd0be79f7.jpg",
+                "paste-9e1440b18ac7625dd450adc2f17c5b1409e67d59.jpg",
+                "paste-fd117fcf54ca2da4e486975bfd37fed8a0422fe7.jpg"
+            ],
+            "mid": 1585394897365,
+            "name": "VWL",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kennzeichnet sich das Betriebsoptimum?",
+                        "<font color=\"#ff0000\">Durchschnittskosten = Grenzkosten</font><br><br><img src=\"Kostenfunktion.png\"><br><br>"
+                    ],
+                    "guid": "LVP^eY>D[$",
+                    "note_model_uuid": "9b202404-13ac-11ec-9a6e-6245b4ebd083",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der Cournotsche Punkt",
+                        "<span style=\"color: rgb(32, 33, 34);\">Derjenige Punkt auf der&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Preis-Absatz-Funktion\">Preis-Absatz-Funktion</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;eines&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Monopol\">Monopolunternehmens</a><span style=\"color: rgb(32, 33, 34);\">, an dem sich das Unternehmen im&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Gewinnmaximum\">Gewinnmaximum</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;befindet<br><br>Vorgehen: G(x) = E(x) - K(x)<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;G´(x) = 0 setzen und diesen Wert für x in G´´(x) einsetzen (muss negativ werden)<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; wenn der Wert negativ wird ist der richtige x-Wert gefunden und kann in p(x) usw. eingesetzt werden.</span>"
+                    ],
+                    "guid": "OwHhKnE^`O",
+                    "note_model_uuid": "9b202404-13ac-11ec-9a6e-6245b4ebd083",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist ein Monopol?",
+                        "<span style=\"color: rgb(32, 33, 34);\">&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Wirtschaftswissenschaften\">Wirtschaftswissenschaften</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;und in der&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Wirtschaft\">Wirtschaft</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;eine&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Marktform\">Marktform</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;genannt, bei welcher nur ein&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Angebot_(Volkswirtschaftslehre)\">Anbieter</a><font color=\"#202122\">&nbsp;vorhanden ist.&nbsp;</font><br><br><font color=\"#ff0000\">Besitzt immer eine Preis-Absatz-Funktion keinen festen Preis wie im Polypol</font>"
+                    ],
+                    "guid": "p9ag3AxM(H",
+                    "note_model_uuid": "9b202404-13ac-11ec-9a6e-6245b4ebd083",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist ein Polypol?",
+                        "Viele Anbieter und viele Nachfrage"
+                    ],
+                    "guid": "P4&YI/5|g4",
+                    "note_model_uuid": "9b202404-13ac-11ec-9a6e-6245b4ebd083",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist ein Oligopol?",
+                        "wenig Anbieter und viele Nachfrager"
+                    ],
+                    "guid": "z{FRAQ$#ls",
+                    "note_model_uuid": "9b202404-13ac-11ec-9a6e-6245b4ebd083",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist das Ertragsgesetz?",
+                        "<span style=\"color: rgb(32, 33, 34);\">Das&nbsp;</span><b>Ertragsgesetz&nbsp;</b><span style=\"color: rgb(32, 33, 34);\">ist ein ökonomisches&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Modell\">Modell</a><span style=\"color: rgb(32, 33, 34);\">, das die Relation von&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Aufwand\">Aufwand</a><span style=\"color: rgb(32, 33, 34);\">/Einsatz (</span><span style=\"color: rgb(32, 33, 34);\"><a href=\"https://de.wikipedia.org/wiki/Englische_Sprache\">englisch</a></span><span style=\"color: rgb(32, 33, 34);\">&nbsp;</span><span style=\"color: rgb(32, 33, 34); font-style: italic;\">Input</span><span style=\"color: rgb(32, 33, 34);\">) und&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Ertrag\">Ertrag</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;(</span><span style=\"color: rgb(32, 33, 34);\"><a href=\"https://de.wikipedia.org/wiki/Englische_Sprache\">englisch</a></span><span style=\"color: rgb(32, 33, 34);\">&nbsp;</span><span style=\"color: rgb(32, 33, 34); font-style: italic;\">Output</span><span style=\"color: rgb(32, 33, 34);\">) beschreibt, wenn ein&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Produktionsfaktor\">Produktionsfaktor</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;verändert wird und alle anderen gleich bleiben. </span><font color=\"#ff0000\">(sinkender Grenzertrag)</font><br><img src=\"220px-Ertragsgesetzliche_Produktionsfunktion.svg.png\">"
+                    ],
+                    "guid": "z.I]85|(~J",
+                    "note_model_uuid": "9b202404-13ac-11ec-9a6e-6245b4ebd083",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Maximaler Durchschnittsertrag?",
+                        "<span style=\"color: rgb(32, 33, 34);\">Der Durchschnittsertrag ist maximal, wenn er gleich dem Grenzertrag ist. Liegt der Grenzertrag über (unter) dem Durchschnittsertrag, ist die (partielle)&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Produktionselastizit%C3%A4t\">Produktionselastizität</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;größer (kleiner) als eins.</span>"
+                    ],
+                    "guid": "EWz`BH8YjW",
+                    "note_model_uuid": "9b202404-13ac-11ec-9a6e-6245b4ebd083",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist eine Indifferenzkurve?",
+                        "<span style=\"color: rgb(32, 33, 34);\">Bezeichnet in der&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Volkswirtschaftslehre\">Volkswirtschaftslehre</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;und dort insbesondere in der&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Haushaltstheorie\">Haushaltstheorie</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;den&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Geometrischer_Ort\">geometrischen Ort</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;aller Konsumpläne mit gleichem Nutzenindex.&nbsp;<br><br></span><img src=\"240px-Indifference-curves-de0.svg.png\"><span style=\"color: rgb(32, 33, 34);\"><br></span>"
+                    ],
+                    "guid": "p|mAo1<(+6",
+                    "note_model_uuid": "9b202404-13ac-11ec-9a6e-6245b4ebd083",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Nutzenfunktion?",
+                        "<span style=\"color: rgb(32, 33, 34);\">Eine&nbsp;</span><b>Nutzenfunktion</b><span style=\"color: rgb(32, 33, 34);\">&nbsp;ist in der&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Wirtschaftswissenschaft\">Wirtschaftswissenschaft</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;und insbesondere der&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Mikro%C3%B6konomie\">Mikroökonomie</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;eine&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Funktion_(Mathematik)\">mathematische Funktion</a><span style=\"color: rgb(32, 33, 34);\">, die&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Pr%C3%A4ferenzrelation\">Präferenzen</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;von&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Wirtschaftssubjekt\">Wirtschaftssubjekten</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;beschreibt. Sie ordnet beliebigen&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/G%C3%BCterb%C3%BCndel\">Güterbündeln</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;jeweils eine&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Reelle_Zahl\">reelle Zahl</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;zu, und zwar in der Weise, dass höher geschätzte Güterbündel größere Zahlen erhalten.<br><br></span><img src=\"220px-Indifference-curves-de.svg.png\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Die Nutzenfunktion D bietet dem Wirtschaftssubjekt den größten Nutzen<span style=\"color: rgb(32, 33, 34);\"><br></span>"
+                    ],
+                    "guid": "q!,EZ$mgq:",
+                    "note_model_uuid": "9b202404-13ac-11ec-9a6e-6245b4ebd083",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Kreuzpreiselastizität?",
+                        "<span style=\"color: rgb(56, 68, 79);\">Die Kreuzpreiselastizität ist ein Maß für die relative Änderung der Nachfrage eines Gutes im Anschluss an eine Preisänderung eines anderen Gutes. Eine </span><font color=\"#ff1d00\">positive Kreuzpreiselastizität weist auf Substitutionsgüter</font><span style=\"color: rgb(56, 68, 79);\"> hin, eine </span><font color=\"#0066ff\">negative weist auf Komplementärgüter</font><span style=\"color: rgb(56, 68, 79);\"> hin. </span><font color=\"#d1ff00\">Unabhängig = 0<br></font><br><img src=\"paste-669d70169dd5db76bda245b84cc3afdbd0be79f7.jpg\"><br><br><img src=\"paste-fd117fcf54ca2da4e486975bfd37fed8a0422fe7.jpg\">"
+                    ],
+                    "guid": "PRW5Mj+5N7",
+                    "note_model_uuid": "9b202404-13ac-11ec-9a6e-6245b4ebd083",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Preiselastizität",
+                        "<span style=\"color: rgb(56, 68, 79);\">Die Preiselastizität gibt die&nbsp;</span><strong>prozentuale Änderung</strong><span style=\"color: rgb(56, 68, 79);\">&nbsp;der Angebots- und Nachfragemenge als Reaktion auf eine Preisänderung an.<br></span><span style=\"color: rgb(56, 68, 79);\">Eine&nbsp;</span><strong>Preiserhöhung</strong><span style=\"color: rgb(56, 68, 79);\">&nbsp;auf normale Güter resultiert normalerweise in einem Rückgang des nachgefragten Gutes. Eine Senkung des Preises führt hingegen dazu, dass die Nachfrage steigt und somit mehr verkauft wird. Näherungsweise zeigt die Preiselastizität an, um wie viel Prozent die Nachfrage nach einem Gut sinkt, wenn der Preis um ein Prozent steigt. Die einzige Ausnahme sind sogenannte&nbsp;</span><strong>Giffen-Güter</strong><span style=\"color: rgb(56, 68, 79);\">.<br><br></span><img src=\"paste-9e1440b18ac7625dd450adc2f17c5b1409e67d59.jpg\"><span style=\"color: rgb(56, 68, 79);\"><br></span>"
+                    ],
+                    "guid": "E?r1<dUe?K",
+                    "note_model_uuid": "9b202404-13ac-11ec-9a6e-6245b4ebd083",
+                    "tags": []
+                }
+            ]
         }
     ],
     "crowdanki_uuid": "be1cfcee-09ba-11ec-aaf2-1e2940308285",
@@ -65,6 +198,52 @@
             },
             "reviewOrder": 0,
             "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "9b202401-13ac-11ec-a3be-6245b4ebd083",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Standard",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 50
+            },
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
         }
     ],
     "desc": "",
@@ -95,10 +274,6 @@
         "Bildschirmfoto 2021-09-11 um 12.02.22.png",
         "Bildschirmfoto 2021-09-11 um 12.02.36.png",
         "Bildschirmfoto 2021-09-11 um 12.03.25.png",
-        "Bildschirmfoto 2021-09-12 um 10.49.10.png",
-        "Bildschirmfoto 2021-09-12 um 10.58.17.png",
-        "Bildschirmfoto 2021-09-12 um 11.04.29.png",
-        "Bildschirmfoto 2021-09-12 um 11.05.21.png",
         "Telephony_multiplexer_system.gif",
         "bilanz_1.gif",
         "deckungsbeitragsrechnung.png",
@@ -106,7 +281,6 @@
         "paste-1591ec82f72254b02bf1f02d9174117c5ef9a3ca.jpg",
         "paste-19216f586e51558d7679920afa0b5634f0991948.jpg",
         "paste-2361bb9846ddb4ff28cae28766a2903c82042a95.jpg",
-        "paste-25a31bc01dd256977bd24de427655adea866caa8.jpg",
         "paste-2e7132f5f50c67f0c09380a4efd76369d02685d7.jpg",
         "paste-3505d29ee8cc3e56b4dc4b2728f24599efb6429a.jpg",
         "paste-49817455fce1be84b88504ac535ecb620be1f177.jpg",
@@ -132,8 +306,64 @@
         "paste-eed2c6a876dcfd5889bb66f87e77b273e2081710.jpg",
         "strukturbilanz allgemein.bmp"
     ],
+    "mid": 1631271915767,
     "name": "T2000 Muendliche",
     "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic-17182-dc638",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
@@ -209,61 +439,6 @@
         },
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Front",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Back",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Basic-17182-dc638",
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Card 1",
-                    "ord": 0,
-                    "qfmt": "{{Front}}"
-                }
-            ],
-            "type": 0,
-            "vers": []
-        },
-        {
-            "__type__": "NoteModel",
             "crowdanki_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
             "css": ".card {\n font-familiy: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}",
             "flds": [
@@ -318,9 +493,314 @@
             ],
             "type": 0,
             "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "9b202404-13ac-11ec-9a6e-6245b4ebd083",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic-17182",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
         }
     ],
     "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie heißen Variablen mit 2 möglichen Zuständen",
+                "Boolsche Variablen"
+            ],
+            "guid": "J&gF;lU&Xp",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Merkmal digitaler Wert und Vorteile",
+                "-diskrete Werte (nur bestimmte Werte)<br>-Daten können verlustfrei gespeichert, kopiert und übertragen werden"
+            ],
+            "guid": "F0DC{hj+)[",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Merkmal analoger Werte",
+                "-kontinuierliche Werte (unendlich viele)"
+            ],
+            "guid": "d~|DfnSwN=",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie werden Daten digitalisiert?",
+                "1. Eingang ist ein Analoges Signal (Füllstand durch Füllstandssensor)<br>2. Wert- und Zeitquantitisierung des Spannungsverlaufs in Stufen<br>3. Zuordnung der Kodierung<br><br><img src=\"paste-2361bb9846ddb4ff28cae28766a2903c82042a95.jpg\">"
+            ],
+            "guid": "xd!Kv4NGot",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Nennen Sie drei Arten elektrisch betätigbarer Schalterarten",
+                "Elektromechanisch: Relais<br>Elektronenstrahlen: Elektronenröhre<br>Halbleitertechnik: Transistor/Mosfet"
+            ],
+            "guid": "x>|$+xcf^]",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Zeichnen Sie ein npn-Transistor",
+                "<img src=\"paste-cac539dff589bde6dc63588b33bebdcaa849b67b.jpg\">"
+            ],
+            "guid": "F5|<V=(06*",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Zeichne einen n-Kanal Mosfet",
+                "<img src=\"paste-ad1c5f18ea38442a7ac066ba0db9e456f0d61156.jpg\">"
+            ],
+            "guid": "bTi^SjPto^",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wann leitet ein npn-Transistor?",
+                "<img src=\"paste-2e7132f5f50c67f0c09380a4efd76369d02685d7.jpg\">"
+            ],
+            "guid": "AXM?J0)h~g",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wann leitet ein n-Kanal Mosfet?",
+                "<img src=\"paste-79324660e700325b9bb85e5036eb13e46b6a8384.jpg\">"
+            ],
+            "guid": "b5HX^&KicI",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mit welcher technischen Größe werden Transistoren/Mosfets angesteuert",
+                "Transistor = Strom<br>Mosfet = Spannung"
+            ],
+            "guid": "Q&s&z=k`W^",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie funktioniert ein Mosfet?",
+                "<img src=\"paste-67707928e56d352892ff1a3d0edb7a2bac97a5ce.jpg\">"
+            ],
+            "guid": "ewRw%%?NRI",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was beschreibt ein Min-Term?",
+                "<img src=\"paste-625748fc45e481bb3862f452587aa48216897f39.jpg\">"
+            ],
+            "guid": "Ob8;pOUxSd",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was beschreibt ein Max-Term?",
+                "<img src=\"paste-eed2c6a876dcfd5889bb66f87e77b273e2081710.jpg\">"
+            ],
+            "guid": "taa{A5mS}J",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Lösung des nachfolgenden KV Diagramms<br><img src=\"paste-7ae38233bc5f4c7fe4088f4d63b9e925d1602922.jpg\">",
+                "<img src=\"paste-3505d29ee8cc3e56b4dc4b2728f24599efb6429a.jpg\">"
+            ],
+            "guid": "ruYP[#%Gqg",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wann sind d`s im KV Diagramm eintragbar und als 1 verwendbar?",
+                "Wenn diese im echten Beispiel nicht vorkommen können (dont care)"
+            ],
+            "guid": "fz~*KDOo@#",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Warum wird in der Digitaltechnik häufig ein Takt verwendet?",
+                "<img src=\"paste-e1e429d5e7ae5593b96f0319f4ceb01eb7045137.jpg\">"
+            ],
+            "guid": "g_mK.Nx<PY",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist der Unterschied zwischen einem <font color=\"#0000ff\">Schaltnetz </font>und einem <font color=\"#0000ff\">Schaltwerk</font>",
+                "<img src=\"paste-49817455fce1be84b88504ac535ecb620be1f177.jpg\">"
+            ],
+            "guid": "Mm0D=J[47d",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Zeichnen Sie einen Moore-Automat / Mealy Automat und nennen Sie den Unterschied",
+                "<img src=\"paste-19216f586e51558d7679920afa0b5634f0991948.jpg\">"
+            ],
+            "guid": "w+*]-EHEuh",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie sieht das einfachste Speichermedium ein NOR-RS-Flipflop aus",
+                "<img src=\"paste-c0efd4043b4d2c1e0700be5b9270560ed5849953.jpg\"><img src=\"paste-65e41a7af0f8ef019ef774c48dae26b2c16b273f.jpg\">"
+            ],
+            "guid": "t;{/Ld5T#U",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie wird ein Taktflankengesteuertes D-Flipflop realisiert?",
+                "<img src=\"paste-8fad2ead719fc62f7af2836d2d782cb74cf60e87.jpg\">"
+            ],
+            "guid": "O}4KAo(@&j",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist ein Multiplexer?",
+                "<span style=\"color: rgb(32, 33, 34);\">Selektionsschaltung in der analogen und digitalen&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Elektronik\">Elektronik</a><span style=\"color: rgb(32, 33, 34);\">, mit der aus einer Anzahl von Eingangssignalen eines ausgewählt und an den Ausgang durchgeschaltet werden kann.<br><br></span><img src=\"Telephony_multiplexer_system.gif\"><span style=\"color: rgb(32, 33, 34);\"><br></span>"
+            ],
+            "guid": "z-tCr3#[/g",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Durch welche Rechenoperation lassen sich alle Grundrechenoperationen realisieren?",
+                "<img src=\"paste-b9c7b4b2d974a99b8032c2fbe4cea3ffcf62486b.jpg\">"
+            ],
+            "guid": "E06Wkn9rMq",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "durch was kennzeichnen sich asynchronzähler?",
+                "besitzen keinen speraten Takt C sondern zählen direkt die Impulse am Eingang&nbsp;"
+            ],
+            "guid": "O:.4Y:5rT$",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "wodurch kennzeichnet sich ein Synchronzähler",
+                "<img src=\"paste-be7ee3861316798ee45fb331528cd2987d740703.jpg\">"
+            ],
+            "guid": "IF8ULhxV*@",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Unterscheidungskriterien Speichersysteme",
+                "<img src=\"paste-b0a6ee03eb5bd26ce168bd8f4651dca92528a66e.jpg\">"
+            ],
+            "guid": "pl9J:|/!wN",
+            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
+            "tags": []
+        },
         {
             "__type__": "Note",
             "fields": [
@@ -334,10 +814,30 @@
         {
             "__type__": "Note",
             "fields": [
+                "Wie funktioniert ein optischer Sensor?",
+                "TODO"
+            ],
+            "guid": "m<Y(kXL!4o",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Wie funktioniert ein Master?",
                 "TODO"
             ],
             "guid": "EE4*=@#jo3",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie funktioniert IO-Link?",
+                "TODO"
+            ],
+            "guid": "M:P4X%Us7|",
             "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
             "tags": []
         },
@@ -758,6 +1258,18 @@
         {
             "__type__": "Note",
             "fields": [
+                "Z",
+                ""
+            ],
+            "guid": "r/8_s5.8G1",
+            "note_model_uuid": "be1d3362-09ba-11ec-aaf2-1e2940308285",
+            "tags": [
+                "ABWL"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Zeichnen Sie eine Strukturbilanz auf",
                 "Stukturbilanz = verkürzte Handelsbilanz<br><br><img src=\"strukturbilanz allgemein.bmp\">"
             ],
@@ -1046,256 +1558,6 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wie heißen Variablen mit 2 möglichen Zuständen",
-                "Boolsche Variablen"
-            ],
-            "guid": "J&gF;lU&Xp",
-            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Merkmal digitaler Wert und Vorteile",
-                "-diskrete Werte (nur bestimmte Werte)<br>-Daten können verlustfrei gespeichert, kopiert und übertragen werden"
-            ],
-            "guid": "F0DC{hj+)[",
-            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Merkmal analoger Werte",
-                "-kontinuierliche Werte (unendlich viele)"
-            ],
-            "guid": "d~|DfnSwN=",
-            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Wie werden Daten digitalisiert?",
-                "1. Eingang ist ein Analoges Signal (Füllstand durch Füllstandssensor)<br>2. Wert- und Zeitquantitisierung des Spannungsverlaufs in Stufen<br>3. Zuordnung der Kodierung<br><br><img src=\"paste-2361bb9846ddb4ff28cae28766a2903c82042a95.jpg\">"
-            ],
-            "guid": "xd!Kv4NGot",
-            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Nennen Sie drei Arten elektrisch betätigbarer Schalterarten",
-                "Elektromechanisch: Relais<br>Elektronenstrahlen: Elektronenröhre<br>Halbleitertechnik: Transistor/Mosfet"
-            ],
-            "guid": "x>|$+xcf^]",
-            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Zeichnen Sie ein npn-Transistor",
-                "<img src=\"paste-cac539dff589bde6dc63588b33bebdcaa849b67b.jpg\">"
-            ],
-            "guid": "F5|<V=(06*",
-            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Zeichne einen n-Kanal Mosfet",
-                "<img src=\"paste-ad1c5f18ea38442a7ac066ba0db9e456f0d61156.jpg\">"
-            ],
-            "guid": "bTi^SjPto^",
-            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Wann leitet ein npn-Transistor?",
-                "<img src=\"paste-2e7132f5f50c67f0c09380a4efd76369d02685d7.jpg\">"
-            ],
-            "guid": "AXM?J0)h~g",
-            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Wann leitet ein n-Kanal Mosfet?",
-                "<img src=\"paste-79324660e700325b9bb85e5036eb13e46b6a8384.jpg\">"
-            ],
-            "guid": "b5HX^&KicI",
-            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Mit welcher technischen Größe werden Transistoren/Mosfets angesteuert",
-                "Transistor = Strom<br>Mosfet = Spannung"
-            ],
-            "guid": "Q&s&z=k`W^",
-            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Wie funktioniert ein Mosfet?",
-                "<img src=\"paste-67707928e56d352892ff1a3d0edb7a2bac97a5ce.jpg\">"
-            ],
-            "guid": "ewRw%%?NRI",
-            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Was beschreibt ein Min-Term?",
-                "<img src=\"paste-625748fc45e481bb3862f452587aa48216897f39.jpg\">"
-            ],
-            "guid": "Ob8;pOUxSd",
-            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Was beschreibt ein Max-Term?",
-                "<img src=\"paste-eed2c6a876dcfd5889bb66f87e77b273e2081710.jpg\">"
-            ],
-            "guid": "taa{A5mS}J",
-            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Lösung des nachfolgenden KV Diagramms<br><img src=\"paste-7ae38233bc5f4c7fe4088f4d63b9e925d1602922.jpg\">",
-                "<img src=\"paste-3505d29ee8cc3e56b4dc4b2728f24599efb6429a.jpg\">"
-            ],
-            "guid": "ruYP[#%Gqg",
-            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Wann sind d`s im KV Diagramm eintragbar und als 1 verwendbar?",
-                "Wenn diese im echten Beispiel nicht vorkommen können (dont care)"
-            ],
-            "guid": "fz~*KDOo@#",
-            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Warum wird in der Digitaltechnik häufig ein Takt verwendet?",
-                "<img src=\"paste-e1e429d5e7ae5593b96f0319f4ceb01eb7045137.jpg\">"
-            ],
-            "guid": "g_mK.Nx<PY",
-            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Was ist der Unterschied zwischen einem <font color=\"#0000ff\">Schaltnetz </font>und einem <font color=\"#0000ff\">Schaltwerk</font>",
-                "<img src=\"paste-49817455fce1be84b88504ac535ecb620be1f177.jpg\">"
-            ],
-            "guid": "Mm0D=J[47d",
-            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Zeichnen Sie einen Moore-Automat / Mealy Automat und nennen Sie den Unterschied",
-                "<img src=\"paste-19216f586e51558d7679920afa0b5634f0991948.jpg\">"
-            ],
-            "guid": "w+*]-EHEuh",
-            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Wie sieht das einfachste Speichermedium ein NOR-RS-Flipflop aus",
-                "<img src=\"paste-c0efd4043b4d2c1e0700be5b9270560ed5849953.jpg\"><img src=\"paste-65e41a7af0f8ef019ef774c48dae26b2c16b273f.jpg\">"
-            ],
-            "guid": "t;{/Ld5T#U",
-            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Wie wird ein Taktflankengesteuertes D-Flipflop realisiert?",
-                "<img src=\"paste-8fad2ead719fc62f7af2836d2d782cb74cf60e87.jpg\">"
-            ],
-            "guid": "O}4KAo(@&j",
-            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Was ist ein Multiplexer?",
-                "<span style=\"color: rgb(32, 33, 34);\">Selektionsschaltung in der analogen und digitalen&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Elektronik\">Elektronik</a><span style=\"color: rgb(32, 33, 34);\">, mit der aus einer Anzahl von Eingangssignalen eines ausgewählt und an den Ausgang durchgeschaltet werden kann.<br><br></span><img src=\"Telephony_multiplexer_system.gif\"><span style=\"color: rgb(32, 33, 34);\"><br></span>"
-            ],
-            "guid": "z-tCr3#[/g",
-            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Durch welche Rechenoperation lassen sich alle Grundrechenoperationen realisieren?",
-                "<img src=\"paste-b9c7b4b2d974a99b8032c2fbe4cea3ffcf62486b.jpg\">"
-            ],
-            "guid": "E06Wkn9rMq",
-            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "durch was kennzeichnen sich asynchronzähler?",
-                "besitzen keinen speraten Takt C sondern zählen direkt die Impulse am Eingang&nbsp;"
-            ],
-            "guid": "O:.4Y:5rT$",
-            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "wodurch kennzeichnet sich ein Synchronzähler",
-                "<img src=\"paste-be7ee3861316798ee45fb331528cd2987d740703.jpg\">"
-            ],
-            "guid": "IF8ULhxV*@",
-            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Unterscheidungskriterien Speichersysteme",
-                "<img src=\"paste-b0a6ee03eb5bd26ce168bd8f4651dca92528a66e.jpg\">"
-            ],
-            "guid": "pl9J:|/!wN",
-            "note_model_uuid": "a2cc1e9c-0fcd-11ec-9d74-6245b4ebd083",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
                 "frage test&nbsp;",
                 "antwort test"
             ],
@@ -1346,8 +1608,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Diodenkennlinie:",
-                "<img src=\"paste-25a31bc01dd256977bd24de427655adea866caa8.jpg\">"
+                "",
+                ""
             ],
             "guid": "x3DEA,%6<{",
             "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
@@ -1356,8 +1618,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Verschwendungen nach Lean?£",
-                "<img src=\"Bildschirmfoto 2021-09-12 um 10.49.10.png\">"
+                "",
+                ""
             ],
             "guid": "h7NkGM]~``",
             "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
@@ -1366,8 +1628,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Kennzahlen für Lead Production?",
-                "<img src=\"Bildschirmfoto 2021-09-12 um 10.58.17.png\">"
+                "",
+                ""
             ],
             "guid": "EPJv$<bPs8",
             "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
@@ -1376,8 +1638,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Organisationstypen der Fertigung",
-                "<img src=\"Bildschirmfoto 2021-09-12 um 11.04.29.png\">"
+                "",
+                ""
             ],
             "guid": "2vh@J8>_*",
             "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
@@ -1386,8 +1648,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Grundbegriffe Produktion und Logistik",
-                "<img src=\"Bildschirmfoto 2021-09-12 um 11.05.21.png\">"
+                "",
+                ""
             ],
             "guid": "E,KA17iPkv",
             "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
