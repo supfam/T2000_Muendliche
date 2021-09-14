@@ -552,6 +552,276 @@
                     "guid": "DJn$TheI1.",
                     "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Reale Spannungsquelle",
+                        "Leerlauf: I=0, U=Uq<br>Kurzschluss: U=0, I=q"
+                    ],
+                    "guid": "sC;Zv`zXo1",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Gleichspannugnsquelle",
+                        "-Positiver Pol: Elektronenmangel<br>- negativer Pol: Elektronenüberschuss"
+                    ],
+                    "guid": "hte(qY_0T>",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "E-Feld",
+                        "Raum, indem auf elektr.. Ladung Kraft ausgeübt wird"
+                    ],
+                    "guid": "OEf{@yEmoD",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "elektrische Feldlinie",
+                        "Gibt in jedem Punkt die Richtung+kraft auf eine positive Probeladung q an."
+                    ],
+                    "guid": "sp@&b`S.,r",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ionenstrom",
+                        "Bewegung von elektr- nicht neutralen Atomen/Molekülen, denen Elektronen fehlen oder zusätzlich zugeordnet werden"
+                    ],
+                    "guid": "mkoT>Ej7B;",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Anion",
+                        "-: Elektronenüberschuss"
+                    ],
+                    "guid": "m)e!Kt0]N1",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Kation",
+                        "+: Elektronenmangel"
+                    ],
+                    "guid": "fFuAId.vS^",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Elektronenstrom",
+                        "Bewegung von freien Elektronen im Metall&nbsp;<br>atomrümpfe sind ortsfest"
+                    ],
+                    "guid": "A631[Q7Y/6",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Elektrische Spannung",
+                        "Gibt an, wie viel Energie nötig ist, um ein Objekt mit einer bestimmten Ladung entlang eines E-Feldes zu bewegn<br>U = E/q"
+                    ],
+                    "guid": "HKrt3WEc*s",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Leistung",
+                        "Arbeit pro Zeit<br>P = U*I<br>P = Ableitung Energie"
+                    ],
+                    "guid": "gSexeG6^Hq",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Stärke des E-Feldes",
+                        "Anzahl der Feldlinien pro Fläche"
+                    ],
+                    "guid": "qMQZU&VP]`",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Magnetfeld",
+                        "N--&gt;S<br>hat 2 Pole, die sich nie trennen lassen"
+                    ],
+                    "guid": "sDQ!w7z:@u",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Magnetische Feldstärke H",
+                        "Magnetfeled durch Strom erregt --&gt; Wirbel<br>Rechte Handregel mit Daumen udn Fingern"
+                    ],
+                    "guid": "vxg{1MtqKp",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Magn. Flussdichte B",
+                        "F= I*B*s<br>Kraft auf bewegte Laddung"
+                    ],
+                    "guid": "FO-o(+4zMe",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Bewegte Ladung",
+                        "F= N*q*B*v"
+                    ],
+                    "guid": "keM_ah_7V2",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Magnetischer Fluss&nbsp;",
+                        "resultierende Wirkung des magn. Feldes<br>= B*A"
+                    ],
+                    "guid": "C}`WG66&4u",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Durchflutung beim Leiter",
+                        "Vgl. Spannung<br>= R* magn. Fluss<br>= Summe aller Ströme bei Fläche"
+                    ],
+                    "guid": "u-K&HXLnI^",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Induktion",
+                        "- bewegte Leiter im Magnetfeld: Uind= -v*B*l<br>- magn. Flussänderung und ruhender Leiter: Uind = -N*Ableitung vom Fluss"
+                    ],
+                    "guid": "i4&J2NEFau",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Verlustwinkel",
+                        "ABweichung der Phasenverschiebung von idealen Winkel<br>90°- phi"
+                    ],
+                    "guid": "La`aSP5c;Z",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Leistungsfaktor cos(phi)",
+                        "P/S"
+                    ],
+                    "guid": "JY]6K/7UDL",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Scheinleistung",
+                        "S= U*I"
+                    ],
+                    "guid": "iDgY]ihMpr",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Leistungsanpassugn Wechselstromnetz",
+                        "Zi= Negiert Za (wirkleistungsanpassung)"
+                    ],
+                    "guid": "v$Stib1%=L",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ortskurven",
+                        "Zeigerspitzen werden verbunden<br>Jede Ortskurve wird mit reellen Parametern versehen<br>Es lassen sich verschiedene Betriebszustände in einem Bidl darstellen"
+                    ],
+                    "guid": "j2-i~<_ohr",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Grenzfrequenz fgr",
+                        "Realteil- und Imaginärteil von Übertragungsfunktion sind gleich Groß<br>(Zeigerdiagramm: Dreieck mit 45°)"
+                    ],
+                    "guid": "k)C~h!GbDE",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Tiefpass Grenzfrequenz",
+                        "fgr= Ua/Ue = 1/ Wurzel 2<br>fgr = 1/ (2*pi*R*C)<br>Sperrt ab Grenzfreuqenz<br>Lässt nur tiefe Frequenzen durch"
+                    ],
+                    "guid": "P?P1@J,$3,",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Freuqnzgang (Bode-Diagramm)",
+                        "zur untersuchung der Übertragungsverhalten von Netzwerken in Abhängigkeit von der Frequenz<br>= Betrachtung Ua/Ue und phi(omega)"
+                    ],
+                    "guid": "sHk^>t2y7=",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Resonanz",
+                        "Kein Imaginärteil<br>w= 1/ (Wurzel L*C)<br>wL= 1/w*C"
+                    ],
+                    "guid": "O()Dr~c7iy",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
                 }
             ]
         },
