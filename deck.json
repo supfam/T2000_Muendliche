@@ -11,87 +11,10 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
-                "Bildschirmfoto 2020-04-30 um 12.43.14.png",
-                "Bildschirmfoto 2020-04-30 um 12.46.04.png",
-                "Bildschirmfoto 2020-04-30 um 14.00.28.png",
-                "Bildschirmfoto 2020-04-30 um 15.31.15.png",
-                "Bildschirmfoto 2020-04-30 um 15.38.59.png",
-                "Bildschirmfoto 2020-04-30 um 15.40.51.png",
-                "Bildschirmfoto 2020-04-30 um 15.50.16.png",
                 "paste-97f4f205d6e67ffc2ccd3c27e004b16a795ec868.jpg"
             ],
             "name": "ABWL",
             "notes": [
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Wofür stehen die Akronyme der SWOT-Analyse<div>{{c1::1. Strenghts}}</div><div>{{c1::2. Weaknesses}}</div><div>{{c1::3. Opportunities}}</div><div>{{c1::4. Threats}}</div><div>&nbsp;</div>",
-                        "<img src=\"Bildschirmfoto 2020-04-30 um 12.43.14.png\">"
-                    ],
-                    "guid": "M%;$A/9lPK",
-                    "note_model_uuid": "6b113366-1406-11ec-86e2-1e2940308285",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Was ist die SWOT-Analyse?<div><br></div><div>{{c1:Gegenüberstellung von:<div><br></div><div>{{c1::&nbsp;Strenghts,Opportunies}}</div><div>{{c1::&nbsp;Strenghts,Threats&nbsp;}}</div><div>{{c1::&nbsp;Weaknesses,Opportunies}}</div><div>{{c1::&nbsp;Weaknesses,Threats}}</div><div>und den Nutzen daraus}}</div></div><div><br></div><div><br></div>",
-                        "<img src=\"Bildschirmfoto 2020-04-30 um 12.46.04.png\">"
-                    ],
-                    "guid": "uQ3E}([%O^",
-                    "note_model_uuid": "6b113366-1406-11ec-86e2-1e2940308285",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Strategien der SWOT-Matrix-Analyse<div><br></div><div>{{c1::1. Strategie \"Ausbauen\" (SO)}}</div><div>{{c1::2. Strategie \"Abichern\" (ST)}}</div><div>{{c1::3. Strategie \"Aufholen\" (WO)}}</div><div>{{c1::4. Strategie \"Vermeiden\" (WT)}}</div><div><br></div><div><br></div>",
-                        "<img src=\"Bildschirmfoto 2020-04-30 um 14.00.28.png\">"
-                    ],
-                    "guid": "MC:0f~R/vq",
-                    "note_model_uuid": "6b113366-1406-11ec-86e2-1e2940308285",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Welche Unternehmensaktivitäten der Wertschöpfungskette umfassen die Primären Aktivitäten?:<div><br></div><div>{{c1::1. Eingang Logistik}}</div><div>{{c2::2. Produktion}}</div><div>{{c3::3. Marketing &amp; Vertrieb}}</div><div>{{c4::4. Ausgangs Logistik/Versand}}</div><div>{{c5::5. Kundendienst}}</div><div><br></div><div><br></div>",
-                        "<img src=\"Bildschirmfoto 2020-04-30 um 15.31.15.png\">"
-                    ],
-                    "guid": "m5#iDo.NbP",
-                    "note_model_uuid": "6b113366-1406-11ec-86e2-1e2940308285",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Branchenstrukturanalyse (Five Forces Porter) dient zur Bestimmung der:<div><br></div><div>{{c1::Attraktivität der Branche}}</div><div><br></div><div><br></div>",
-                        "<img src=\"Bildschirmfoto 2020-04-30 um 15.38.59.png\">"
-                    ],
-                    "guid": "H(J9t?8;JT",
-                    "note_model_uuid": "6b113366-1406-11ec-86e2-1e2940308285",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Brachenstruktur nach den Five Forces:<div><br></div><div>{{c1::1. Verhandlungsmacht der Lieferanten}}</div><div>{{c2::2. Verhandlungsmacht der Kunden}}</div><div>{{c3::3. Bedrohung durch Ersatzprodukte}}</div><div>{{c4::4. Bedrohung durch Wettbewerber}}</div><div>{{c5::5. Bedrohung durch neue Konkurrenz}}</div>",
-                        "<div><br></div><div><br></div><div><br></div><img src=\"Bildschirmfoto 2020-04-30 um 15.40.51.png\"><div><br></div><div><br></div>"
-                    ],
-                    "guid": "iJ11&;>F.?",
-                    "note_model_uuid": "6b113366-1406-11ec-86e2-1e2940308285",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Was sind die Phase im Produktlebenszyklus?<div><br></div><div>{{c1::1. Markteinführung}}</div><div>{{c2::2. Wachstum}}</div><div>{{c3::3. Reife}}</div><div>{{c4::4. Sättigung}}</div><div>{{c5::5. Verfall&nbsp;}}</div>",
-                        "<div><br></div><div><span style=\"background-color: rgb(255, 255, 10);\">Ziel : Reifephase nicht verlassen.&nbsp;</span></div><div><br></div><img src=\"Bildschirmfoto 2020-04-30 um 15.50.16.png\">"
-                    ],
-                    "guid": "m{mVE}q2ec",
-                    "note_model_uuid": "6b113366-1406-11ec-86e2-1e2940308285",
-                    "tags": []
-                },
                 {
                     "__type__": "Note",
                     "fields": [
@@ -1344,43 +1267,9 @@
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
-            "media_files": [
-                "Bildschirmfoto 2021-03-30 um 21.55.47.png",
-                "Bildschirmfoto 2021-04-14 um 11.05.53.png"
-            ],
+            "media_files": [],
             "name": "Werkstoffkunde",
-            "notes": [
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "\n<div>\n<div>\n<pre>Schlüsseln Sie folgende Werkstoffkurzbezeichnungen auf:</pre><pre><div><div><ol><li>CuZn31Si; </li><li>CuSn11Pb2; </li><li>CuNi44; </li><li>S-Sn63Pb37; </li><li>B-Cu92PAg; </li><li>PI;</li><li>PP; </li><li>M400-50</li></ol></div></div></pre><pre><ol><li>{{c1::Kupferbasis-Legierung mit 31% Zink und geringe Anteile Silizium;}} </li><li>{{c2::Kupferbasis-Legierung mit 11%Zinn und 2% Blei;}} </li><li>{{c3::Kupfer Nickel-Widerstandslegierung 44% Nickel;}} </li><li>{{c4::Weichlot mit 63% Zinn und 37% Blei;}}</li><li>{{c5::Hartlot mit 92% Kupfer, Reste sind Phosphor und Silber;}} </li><li>{{c6::Polyimid;}}</li><li>{{c7::Polypropylen;}} </li><li>{{c8::Elektroblech mit 4 W/kg Ummagnetisierungsverlust und eine Dicke von 0,5 mm}}</li></ol></pre>\n</div>\n</div>",
-                        ""
-                    ],
-                    "guid": "Ih{,>R3):2",
-                    "note_model_uuid": "6b113366-1406-11ec-86e2-1e2940308285",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Messing&nbsp;",
-                        "<img src=\"Bildschirmfoto 2021-03-30 um 21.55.47.png\">"
-                    ],
-                    "guid": "O4E=x2+0!d",
-                    "note_model_uuid": "6b141158-1406-11ec-86e2-1e2940308285",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Festigkeit und Dehnverhalt - Zugversuch",
-                        "<img src=\"Bildschirmfoto 2021-04-14 um 11.05.53.png\">"
-                    ],
-                    "guid": "j9^}rB#(Dq",
-                    "note_model_uuid": "6b141158-1406-11ec-86e2-1e2940308285",
-                    "tags": []
-                }
-            ]
+            "notes": []
         }
     ],
     "crowdanki_uuid": "be1cfcee-09ba-11ec-aaf2-1e2940308285",
@@ -1566,61 +1455,6 @@
         },
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "6b113366-1406-11ec-86e2-1e2940308285",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Text",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "extra",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Cloze",
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "{{cloze:Text}}\n<div style='font-family: Arial; font-size: 20px;'></div>\n\n\n\n<div style='font-family: Arial; font-size: 20px;'>\n\n{{extra}}</div>\n<script>\nvar clozes = document.getElementsByClassName(\"cloze\");\nvar clr = window.getComputedStyle(clozes[0]).color;\nvar bg = window.getComputedStyle(clozes[0]).background;\nfor (i=1; i<clozes.length; ++i) {\n  clozes[i].style.background = clr;\n  clozes[i].onclick = function() {this.style.background=bg ;}\n}\n</script>\n",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Cloze",
-                    "ord": 0,
-                    "qfmt": "{{cloze:Text}}\n<div style='font-family: Arial; font-size: 20px;'></div>\n\n"
-                }
-            ],
-            "type": 1,
-            "vers": []
-        },
-        {
-            "__type__": "NoteModel",
             "crowdanki_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
             "css": ".card {\n font-familiy: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}",
             "flds": [
@@ -1759,61 +1593,6 @@
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
             "name": "Basic-17182-2b8cd",
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Card 1",
-                    "ord": 0,
-                    "qfmt": "{{Front}}"
-                }
-            ],
-            "type": 0,
-            "vers": []
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "6b141158-1406-11ec-86e2-1e2940308285",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Front",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Back",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Basic-17182",
             "req": [
                 [
                     0,
